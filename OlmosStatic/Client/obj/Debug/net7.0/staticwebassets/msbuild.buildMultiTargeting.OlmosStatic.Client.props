@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OlmosStatic.Client.props" />
+</Project>
