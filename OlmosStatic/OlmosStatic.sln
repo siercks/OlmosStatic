@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlmosStatic.Server", "Server\OlmosStatic.Server.csproj", "{9C32F420-6F8D-4491-AA1F-EE43B86091AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlmosStatic.Server", "Server\OlmosStatic.Server.csproj", "{9C32F420-6F8D-4491-AA1F-EE43B86091AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlmosStatic.Client", "Client\OlmosStatic.Client.csproj", "{4949940A-F88A-4AED-9A59-ECEC2733D65C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlmosStatic.Client", "Client\OlmosStatic.Client.csproj", "{4949940A-F88A-4AED-9A59-ECEC2733D65C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlmosStatic.Shared", "Shared\OlmosStatic.Shared.csproj", "{26880165-E494-4850-A400-C69A48059F88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlmosStatic.Shared", "Shared\OlmosStatic.Shared.csproj", "{26880165-E494-4850-A400-C69A48059F88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
