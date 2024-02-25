@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\booking.css",
+      "PackagePath": "staticwebassets\\css\\booking.css"
+    },
+    {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -61,6 +65,14 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\w3.css",
+      "PackagePath": "staticwebassets\\css\\w3.css"
+    },
+    {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
@@ -75,6 +87,18 @@
     {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\loop.MOV",
+      "PackagePath": "staticwebassets\\loop.MOV"
+    },
+    {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\pose.jpg",
+      "PackagePath": "staticwebassets\\pose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\video.MOV",
+      "PackagePath": "staticwebassets\\video.MOV"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OlmosStatic.Client.Microsoft.AspNetCore.StaticWebAssets.props",

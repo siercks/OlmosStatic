@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-kj5cBXzwPYC+HD+P8+6VybY34JtEzjXjMIHXEI3hIiM=",
       "System.Private.CoreLib.dll": "sha256-Awk1lCiFfH7r9AAZfBtGqS8rhv6UJ5lUu3yF6HDH3tQ=",
       "OlmosStatic.Shared.dll": "sha256-uAuKpU5hgQ\/k49PGV1EPt6IShmCWMZtv1M87hAq8UaA=",
-      "OlmosStatic.Client.dll": "sha256-xPd6qt+QXNLabs3JMf\/4NuE5PyfG3MzwYhVvA89ciFo="
+      "OlmosStatic.Client.dll": "sha256-UiBxgRakwGpH8yTEi+eROEKqjBCTik95MoXLywvmPrQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "OlmosStatic.Shared.pdb": "sha256-sOCPsPUr4UZXvYU7GI8UoqgsSaRL\/Nfcdp\/sHqedap4=",
-      "OlmosStatic.Client.pdb": "sha256-kX16soLK4Oyb3anWNbcskYUm8wLTq6ZqcjcXcf3u\/+U="
+      "OlmosStatic.Client.pdb": "sha256-7iSwhBL2MO\/pEVd33d\/lCeHv2UTKBt58BhvHkTr+XyI="
     },
     "runtime": {
       "dotnet.7.0.0.amub20uvka.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",

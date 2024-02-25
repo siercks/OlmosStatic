@@ -1,0 +1,116 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.table {
+    background-color: rgba(0, 0, 0, 0);
+    color: antiquewhite;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #262626;
+    color: antiquewhite;
+    font-family: 'Sans Serif Collection';
+}
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 60px;
+    background-color: #262626;
+    color: antiquewhite;
+    font-family: 'Sans Serif Collection';
+}
+page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 60px;
+    background-color: #262626;
+    color: antiquewhite;
+    font-family: 'Sans Serif Collection';
+}
+
+img {
+    width: auto;
+}
+
+.profile {
+    width: 50%;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    float: right;
+}
+
+#captchaBackground {
+    height: 220px;
+    width: 250px;
+    background-color: #2d3748;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#captchaHeading {
+    color: white;
+}
+
+#captcha {
+    height: 80%;
+    width: 80%;
+    font-size: 30px;
+    letter-spacing: 3px;
+    margin: auto;
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#submitButton {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: #08e5ff;
+    border: 0px;
+    font-weight: bold;
+}
+
+#refreshButton {
+    background-color: #08e5ff;
+    border: 0px;
+    font-weight: bold;
+}
+
+#textBox {
+    height: 25px;
+}
+
+.incorrectCaptcha {
+    color: #ff0000;
+}
+
+.correctCaptcha {
+    color: #4cff00;
+}

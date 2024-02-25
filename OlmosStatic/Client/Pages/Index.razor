@@ -1,30 +1,49 @@
 ﻿@page "/"
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<style>
+    .profile {
+    width: 40%;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
 
-<PageTitle>Index</PageTitle>
+    .row {
+        display: flex;
+    }
 
-<h1>Rolando Olmos</h1>
+    .column {
+        flex: 50%;
+        padding: 10px;
+    }
+
+</style>
+<PageTitle>Your Favorite Bartender: Rolando Olmos</PageTitle>
+
 
 <page>
-    <h1><i>"Enjoy the party, I'll do the rest."</i></h1>
-    <h1><b><u>Your Favorite Bartender:</u> <br />Rolando Olmos</b></h1>
+    
     <body>
-        <div class="custom-container">
-            <div class="right-half">
-                <img src="pose.jpg"
-                     style="object-fit:scale-down"
-                     class="profile" />
-            </div>
-            <div class="left-half">
-                <h2>Bartending Service</h2>
-                Bartending and serving the Coachella Valley since <u>1985</u>!
-                <br /><br />
+        <div class="row">
+        <div class="column" style="">
+                    <h2><i>"Enjoy the party, I'll do the rest."</i></h2>
+
+                Bartending and serving the Coachella Valley since <u>1985</u>!<br /><br />
+                Are you looking for a bartender?<br /><br />
+
+
                 I'm for hire for birthdays, quincineras, and any celebration for your bartending needs.
                 <br>
                 <br>
                 <h2 class="text-center"><a href="mailto:olmosrolando123@gmail.com">Email Rolando!</a></h2>
                 <br>
-            </div>
         </div>
+        <div class="column" style="">
+                <h1><b><u>Your Favorite Bartender:</u> <br />Rolando Olmos</b></h1>
+                <img src="pose.jpg"
+                     style="object-fit:scale-down"
+                     class="profile" />
+        </div>
+    </div>
 
     </body>
 </page>
