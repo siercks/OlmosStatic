@@ -92,6 +92,7 @@ main[b-m2v23mlsja] {
 
 .navbar-brand[b-gvmzfdpl4k] {
     font-size: 1.1rem;
+    color: #ffc423;
 }
 
 .oi[b-gvmzfdpl4k] {
@@ -103,6 +104,7 @@ main[b-m2v23mlsja] {
 
 .nav-item[b-gvmzfdpl4k] {
     font-size: 0.9rem;
+    color: #ffc423;
     padding-bottom: 0.5rem;
 }
 
@@ -115,7 +117,7 @@ main[b-m2v23mlsja] {
     }
 
     .nav-item[b-gvmzfdpl4k]  a {
-        color: #d7d7d7;
+        color: #ffc423;
         border-radius: 4px;
         height: 3rem;
         display: flex;
