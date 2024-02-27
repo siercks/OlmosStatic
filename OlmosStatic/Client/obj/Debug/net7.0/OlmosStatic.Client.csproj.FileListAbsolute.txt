@@ -834,3 +834,4 @@ C:\Users\siercks\Documents\GitHub\OlmosStatic\OlmosStatic\Client\obj\Debug\net7.
 C:\Users\siercks\Documents\GitHub\OlmosStatic\OlmosStatic\Client\obj\Debug\net7.0\refint\OlmosStatic.Client.dll
 C:\Users\siercks\Documents\GitHub\OlmosStatic\OlmosStatic\Client\obj\Debug\net7.0\OlmosStatic.Client.pdb
 C:\Users\siercks\Documents\GitHub\OlmosStatic\OlmosStatic\Client\obj\Debug\net7.0\ref\OlmosStatic.Client.dll
+C:\Users\siercks\Documents\GitHub\OlmosStatic\OlmosStatic\Client\bin\Debug\net7.0\staticwebapp.config.json
