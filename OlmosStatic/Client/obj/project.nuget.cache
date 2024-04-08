@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zKXtDiOeki1dgZbjSshygXNGu1HpKpqJu8meWgj8UVpEweJW5EhIY4czeHjRIRcmK6qLJOSHy1azmR4dNSYGlg==",
+  "dgSpecHash": "YRTa6+9VhzNJGrgYTZOwIZFODPyhhuzY9mBjfb5DwyS5+BlNOdWi9WQuahNuveYnwAbYR92J++NUoFWv9ImPtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\OlmosStatic.Client.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,13 @@
     "C:\\Users\\siercks\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\microsoft.jsinterop\\7.0.0\\microsoft.jsinterop.7.0.0.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.0\\microsoft.jsinterop.webassembly.7.0.0.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.3\\microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\siercks\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\siercks\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.17\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

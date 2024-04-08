@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|c:\\users\\siercks\\documents\\github\\olmosstatic\\olmosstatic\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|solutionrelative:client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|c:\\users\\siercks\\documents\\github\\olmosstatic\\olmosstatic\\client\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|solutionrelative:client\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|c:\\users\\siercks\\documents\\github\\olmosstatic\\olmosstatic\\client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|solutionrelative:client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|c:\\users\\siercks\\documents\\github\\olmosstatic\\olmosstatic\\client\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|solutionrelative:client\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|c:\\users\\siercks\\documents\\github\\olmosstatic\\olmosstatic\\client\\pages\\media.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|solutionrelative:client\\pages\\media.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|c:\\users\\siercks\\documents\\github\\olmosstatic\\olmosstatic\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|c:\\users\\siercks\\documents\\github\\olmosstatic\\olmosstatic\\client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4949940A-F88A-4AED-9A59-ECEC2733D65C}|Client\\OlmosStatic.Client.csproj|solutionrelative:client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Client\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T00:07:25.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Client\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T00:09:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Client\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T23:57:57.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "Client\\Shared\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T03:21:49.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Media.razor",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Pages\\Media.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Media.razor",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Pages\\Media.razor",
+              "RelativeToolTip": "Client\\Pages\\Media.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T23:55:38.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Client\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T00:41:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Client\\Pages\\Index.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T22:51:25.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
