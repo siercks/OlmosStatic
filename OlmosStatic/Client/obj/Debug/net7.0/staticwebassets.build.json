@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pxV1CPvDwAwrh9ARzRG5ResjCzSXvXyshYP4Tg+SToo=",
+  "Hash": "CYgMNeBJlIOnPb2lup9djPtWDi7y9PY993rNejZxvjU=",
   "Source": "OlmosStatic.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7788,25 +7788,6 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\booking.css",
-      "SourceId": "OlmosStatic.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/booking.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\booking.css"
-    },
-    {
       "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "OlmosStatic.Client",
       "SourceType": "Discovered",
@@ -8128,6 +8109,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\loop.MOV"
+    },
+    {
+      "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\lucidity-condensed.ttf",
+      "SourceId": "OlmosStatic.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lucidity-condensed.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lucidity-condensed.ttf"
     },
     {
       "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\pose.jpg",

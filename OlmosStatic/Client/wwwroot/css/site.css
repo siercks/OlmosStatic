@@ -23,9 +23,17 @@ body {
     position: relative;
     display: flex;
     flex-direction: column;
-    font-family: Garamond;
-    background-color: #232015;
+    /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
+    font-family: Arial, Helvetica, sans-serif;
     color: #ffc423;
+}
+
+.lucidity {
+    font-family: 'Lucidity Condensed';
+}
+@font-face {
+    font-family: 'Lucidity Condensed';
+    src: url(lucidity-condensed.ttf);
 }
 
 .sidebar {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OlmosStatic.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1ab41c5b31aaa971e411526bbe58c03aa2a8219")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3a1ad03f8a4515c9d474724929cf56275f0c80")]
 [assembly: System.Reflection.AssemblyProductAttribute("OlmosStatic.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OlmosStatic.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

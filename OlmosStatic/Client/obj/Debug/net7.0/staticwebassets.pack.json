@@ -17,10 +17,6 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\booking.css",
-      "PackagePath": "staticwebassets\\css\\booking.css"
-    },
-    {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -87,6 +83,10 @@
     {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\loop.MOV",
       "PackagePath": "staticwebassets\\loop.MOV"
+    },
+    {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\lucidity-condensed.ttf",
+      "PackagePath": "staticwebassets\\lucidity-condensed.ttf"
     },
     {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\OlmosStatic\\OlmosStatic\\Client\\wwwroot\\pose.jpg",

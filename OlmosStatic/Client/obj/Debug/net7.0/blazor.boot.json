@@ -1,7 +1,7 @@
 {
   "entryAssembly": "OlmosStatic.Client",
   "resources": {
-    "hash": "sha256-OVzCVpJ4rnW1/Z8XFBwsNHXbgdCLvO14HvyXrltcjJc=",
+    "hash": "sha256-wXn3R9nB+nor5ZeZIGQtqZ1rdrXiUPA90AGCLP8XqD0=",
     "runtime": {
       "dotnet.7.0.17.x6wz9bbot9.js": "sha256-E0n6hbqoR0T+sf5KQWRykPOVHyupoVmuMAlrNdZv/58=",
       "dotnet.timezones.blat": "sha256-GzDmKQksbAkzNe1GNrGcVtpc0naGXOFCpUzq3c/pV+c=",
@@ -202,12 +202,12 @@
       "mscorlib.dll": "sha256-badKdPe6iRs84RQLXBloHSqFKpRH9OadGJi0KTXhRFQ=",
       "netstandard.dll": "sha256-iBSnBFLxBMQ/rJFfJ8Hx43m9PgD1lkZjNx6fDse3/hA=",
       "System.Private.CoreLib.dll": "sha256-6enLVpQNF0y8yVpyDFGLqpY5QEQxGkE3u+QL6M6YcIc=",
-      "OlmosStatic.Shared.dll": "sha256-jIkb594c6bB6VqukUog89cxmZ1rDwNbqvx7dVBXgQF0=",
-      "OlmosStatic.Client.dll": "sha256-fpm5CTjWot/py47IRH/3HxvkF9ukdJNrVTHqQdf3A+A="
+      "OlmosStatic.Shared.dll": "sha256-4FaSPciQTwwr5fmo9DP1XSHtT867jOskvh2COZDZNkM=",
+      "OlmosStatic.Client.dll": "sha256-cLnpAgdu7d4sRsbPqYdOElE5A8tweforfTNXNWSmeio="
     },
     "pdb": {
-      "OlmosStatic.Shared.pdb": "sha256-TPcEiQ5G6XXV4ufOIinXUO6BW981BnxfWIg50zoSG2k=",
-      "OlmosStatic.Client.pdb": "sha256-wT4OX+0vzlF8jC1btKOYu8h9mZGKg4YwxvIecc/byws="
+      "OlmosStatic.Shared.pdb": "sha256-MQfVdgk9A2wwQ1KtNkCjnFZL01kPWD+m/5ZvbRxO070=",
+      "OlmosStatic.Client.pdb": "sha256-oBUh1K1Z0mpt9K1QTBRLbz/fudalT8i1QkkR2BHI7Ig="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
